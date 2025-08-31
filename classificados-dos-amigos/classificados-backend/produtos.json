@@ -1,0 +1,41 @@
+[
+  {
+    "id": "eac68a89-df6a-496a-bf5d-de769d4e1af5",
+    "titulo": "Smartphone Samsung",
+    "descricao": "Galaxy S21 em �timo estado",
+    "preco": 800,
+    "categoria": "eletronicos",
+    "vendedor": "Jo�o Silva",
+    "whatsapp": "11999999999",
+    "condicao": "usado",
+    "imagens": [],
+    "criadoEm": "2025-08-31T20:19:37.988Z",
+    "ativo": true
+  },
+  {
+    "id": "f14804eb-8735-4d4b-b223-3e4cb07a242c",
+    "titulo": "Bicicleta Mountain Bike",
+    "descricao": "Bicicleta aro 29 com 21 marchas",
+    "preco": 450,
+    "categoria": "esportes",
+    "vendedor": "Maria Santos",
+    "whatsapp": "11888888888",
+    "condicao": "seminovo",
+    "imagens": [],
+    "criadoEm": "2025-08-31T20:19:52.859Z",
+    "ativo": true
+  },
+  {
+    "id": "49df718c-6a46-429b-879e-66674ed82dcb",
+    "titulo": "Pc",
+    "descricao": "Pc ideapad",
+    "preco": 1000,
+    "categoria": "tec",
+    "vendedor": "teste",
+    "whatsapp": "11888888888",
+    "condicao": "seminovo",
+    "imagens": [],
+    "criadoEm": "2025-08-31T20:50:36.026Z",
+    "ativo": true
+  }
+]
